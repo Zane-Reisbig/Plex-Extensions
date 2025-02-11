@@ -2,7 +2,7 @@
 ## For use with one of the "Custom JS Injector Browser Extensions©" i.e. TamperMonkey/GreaseMonkey/pasting in the js console everytime.<br/>
 
 # Installation
-## To install simply put the corresponding "index.js" file in a new Project as supported by your JS Injector.<br/>
+## To install simply copy and paste the corresponding "index.js" file in a new Project as supported by your JS Injector.<br/>
 
 <br/>
 
